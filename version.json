@@ -1,5 +1,5 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.5",
   "url": "https://bright-phiri.github.io/POSDeskApp-updates/downloads/POSDeskApp.jar",
-  "notes": "Fixed VAT relief totals, improved B2B transaction handling, and added performance improvements."
+  "notes": "Fix navigation issues and improve performance."
 }
