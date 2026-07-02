@@ -1,5 +1,5 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.6",
   "url": "https://bright-phiri.github.io/POSDeskApp-updates/downloads/POSDeskApp.jar",
-  "notes": "Fix navigation issues and improve performance."
+  "notes": "Fix duplicate product sync codes and discounted receipt prices."
 }
