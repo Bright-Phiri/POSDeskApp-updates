@@ -1,5 +1,5 @@
 {
-  "version": "1.0.6",
+  "version": "1.0.7",
   "url": "https://bright-phiri.github.io/POSDeskApp-updates/downloads/POSDeskApp.jar",
-  "notes": "Bug fixes and performance improvements, including fixes for split live sales and offline transmission timeouts."
+  "notes": "Added invoice/customer tracking, debtors reports, BI reports, thermal quote printing, product sync fixes, warehouse count fixes, terminal activation fixes, and faster offline MRA push updates."
 }
