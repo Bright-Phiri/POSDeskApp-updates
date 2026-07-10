@@ -1,5 +1,5 @@
 {
-  "version": "1.0.8",
+  "version": "1.0.9",
   "url": "https://bright-phiri.github.io/POSDeskApp-updates/downloads/POSDeskApp.jar",
-  "notes": "Added BI reports."
+  "notes": "Fixed bug in offline receipts validation."
 }
