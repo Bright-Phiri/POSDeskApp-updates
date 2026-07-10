@@ -1,5 +1,5 @@
 {
-  "version": "1.0.7",
+  "version": "1.0.8",
   "url": "https://bright-phiri.github.io/POSDeskApp-updates/downloads/POSDeskApp.jar",
-  "notes": "Added invoice/customer tracking, debtors reports, BI reports, thermal quote printing, product sync fixes, warehouse count fixes, terminal activation fixes, and faster offline MRA push updates."
+  "notes": "Added BI reports."
 }
