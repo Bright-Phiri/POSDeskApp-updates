@@ -1,5 +1,5 @@
 {
-  "version": "1.0.9",
+  "version": "1.0.10",
   "url": "https://bright-phiri.github.io/POSDeskApp-updates/downloads/POSDeskApp.jar",
-  "notes": "Fixed bug in offline receipts validation."
+  "notes": "Fixed a POS navigation memory issue that could cause the selling screen to freeze after moving between screens."
 }
