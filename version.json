@@ -1,5 +1,5 @@
 {
-  "version": "1.0.11",
+  "version": "1.0.12",
   "url": "https://bright-phiri.github.io/POSDeskApp-updates/downloads/POSDeskApp.jar",
-  "notes": "Resolved Sales screen freezing during navigation."
+  "notes": "Resolved Sales screen freezing during offline mode."
 }
