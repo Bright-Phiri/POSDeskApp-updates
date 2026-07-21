@@ -1,5 +1,5 @@
 {
-  "version": "1.0.13",
+  "version": "1.0.14",
   "url": "https://bright-phiri.github.io/POSDeskApp-updates/downloads/POSDeskApp.jar",
-  "notes": "Resolved Sales screen freezing during offline mode."
+  "notes": "Added receipt cancellation requests and improved invoice/quotation email sending."
 }
