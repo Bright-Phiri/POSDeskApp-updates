@@ -1,5 +1,5 @@
 {
-  "version": "1.0.14",
+  "version": "1.0.15",
   "url": "https://bright-phiri.github.io/POSDeskApp-updates/downloads/POSDeskApp.jar",
-  "notes": "Added receipt cancellation & email sending for invoices & quotations."
+  "notes": "Added purchases, supplier invoices, bank payments, report polish & email updates."
 }
