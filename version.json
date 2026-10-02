@@ -1,5 +1,6 @@
 {
   "version": "1.0.21",
   "url": "https://bright-phiri.github.io/POSDeskApp-updates/downloads/POSDeskApp.jar",
+  "bootstrapUrl": "https://bright-phiri.github.io/POSDeskApp-updates/downloads/bootstrap.jar",
   "notes": "Add eis store and forward support"
 }
