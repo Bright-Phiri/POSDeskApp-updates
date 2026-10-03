@@ -1,6 +1,6 @@
 {
-  "version": "1.0.22",
+  "version": "1.0.21",
   "url": "https://bright-phiri.github.io/POSDeskApp-updates/downloads/POSDeskApp.jar",
   "bootstrapUrl": "https://bright-phiri.github.io/POSDeskApp-updates/downloads/bootstrap.jar",
-  "notes": "Checkout security update for seller TIN 30411988."
+  "notes": "Add eis store and forward support"
 }
