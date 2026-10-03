@@ -2,5 +2,5 @@
   "version": "1.0.22",
   "url": "https://bright-phiri.github.io/POSDeskApp-updates/downloads/POSDeskApp.jar",
   "bootstrapUrl": "https://bright-phiri.github.io/POSDeskApp-updates/downloads/bootstrap.jar",
-  "notes": "Update now to keep your POS running smoothly"
+  "notes": "Bug fixes when sending offline sales"
 }
