@@ -1,6 +1,6 @@
 {
-  "version": "1.0.26",
+  "version": "1.0.27",
   "url": "https://bright-phiri.github.io/POSDeskApp-updates/downloads/POSDeskApp.jar",
   "bootstrapUrl": "https://bright-phiri.github.io/POSDeskApp-updates/downloads/bootstrap.jar",
-  "notes": "Prices can now be edited when creating a quotation"
+  "notes": "Prices can now be edited in the item form when creating a quotation, before adding the item"
 }
