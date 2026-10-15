@@ -1,6 +1,6 @@
 {
-  "version": "1.0.25",
+  "version": "1.0.26",
   "url": "https://bright-phiri.github.io/POSDeskApp-updates/downloads/POSDeskApp.jar",
   "bootstrapUrl": "https://bright-phiri.github.io/POSDeskApp-updates/downloads/bootstrap.jar",
-  "notes": "Bug fixes when syncing offline transactions"
+  "notes": "Improve performance and allow price editing when creating quotations."
 }
