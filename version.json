@@ -2,5 +2,5 @@
   "version": "1.0.26",
   "url": "https://bright-phiri.github.io/POSDeskApp-updates/downloads/POSDeskApp.jar",
   "bootstrapUrl": "https://bright-phiri.github.io/POSDeskApp-updates/downloads/bootstrap.jar",
-  "notes": "Improve performance and allow price editing when creating quotations."
+  "notes": "Prices can now be edited when creating a quotation"
 }
